@@ -1,64 +1,75 @@
-👋 Hey there — I'm Sushmitha!
-I'm a Data Scientist who loves telling stories with data, building machine learning models that actually work, and occasionally sipping coffee while yelling at my code. ☕🐍
+# 👋 Hey there — I'm Sushmitha!
 
-🚀 What I Do
-Build ML models that solve real-world problems
+I'm a **Data Scientist** who blends ML skills, business thinking, and startup grit to solve real-world problems. I love telling stories with data, building machine learning models that *actually* work, and occasionally sipping coffee while yelling at my code. ☕🐍
 
-Analyze data until it gives up its secrets 📊
+---
 
-Create dashboards that drive decisions, not just look pretty
+## 🚀 What I Do
 
-Work across AI, education, healthcare, and even a candle-tea startup 🕯️🍵
+- Build ML models that solve real-world problems  
+- Analyze data until it gives up its secrets 📊  
+- Create dashboards that drive decisions  
+- Work across AI, education, healthcare, and even a candle-tea startup 🕯️🍵
 
-🛠️ Tools I Speak Fluently
-Languages & Frameworks: Python · SQL · Scikit-learn · Pandas · TensorFlow
-Platforms: Azure ML · Hugging Face · OpenAI API · LangChain · RAG
-Visualization: Tableau · Power BI
+---
 
-💼 Projects I’m Proud Of
-🍄 Mushroom Classifier – Built a CNN model to classify mushrooms (don’t eat the wrong ones!)
+## 🛠️ Tools I Speak Fluently
 
-📄 Contract Risk Scorer – ML model to flag risky language in legal contracts
+**Languages & Libraries**  
+Python · SQL · Scikit-learn · Pandas · TensorFlow  
 
-🍽️ Restaurant Recommender – Suggests food spots based on user preferences
+**Platforms & APIs**  
+Azure ML · Hugging Face · OpenAI API · LangChain · RAG  
 
-💊 Healthcare Sales Targeting – Analyzed 28M+ hours of CMS data, unlocking $7B+ in business insights
+**Visualization**  
+Tableau · Power BI  
 
-🎓 Education & Certifications
-MS in Computer Engineering – Colorado State University
+---
 
-🧠 IBM Data Science Certificate
+## 💼 Projects I’m Proud Of
 
-📊 SQL Essentials
+- 🍄 **Mushroom Classifier** – CNN model to classify edible vs. poisonous mushrooms  
+- 📄 **Contract Risk Scorer** – NLP model to detect risky legal language  
+- 🍽️ **Restaurant Recommender** – Suggests food spots based on user preferences  
+- 💊 **Healthcare Sales Targeting** – Analyzed 28M+ CMS hours, unlocking $7B+ insights  
 
-🚀 ElevateMe ML Bootcamp
+---
 
-🐍 Python for AI
+## 🎓 Education & Certifications
 
-💡 Why Hire Me? What Sets Me Apart
-I blend technical skill with business thinking — I don’t just build models, I solve real problems
+- **MS in Computer Engineering** – Colorado State University  
+- IBM Data Science Certificate  
+- ElevateMe ML Bootcamp  
+- Python for AI · SQL Essentials  
 
-Experience across startups, academia, and enterprise — I’m fast, adaptable, and impact-driven
+---
 
-Hands-on with GenAI, RAG, LangChain, Hugging Face — not just buzzwords, I build with them
+## 💡 Why Hire Me?
 
-Skilled at turning messy data into dashboards that actually get used
+- I blend **technical skills with business thinking** — I don’t just build models, I solve real problems  
+- Experienced across **startups, academia, and industry** — I’m fast, adaptable, and impact-driven  
+- Hands-on with **GenAI, RAG, LangChain, Hugging Face** — not just buzzwords, I’ve built with them  
+- Turn messy data into dashboards that actually get used  
+- Built and ran a candle + tea business — shipped 10K+ packages  
+- Known for breaking down complex ideas to non-tech folks without making anyone feel dumb  
 
-Ran a candle + tea business — built the site, handled logistics, and shipped 10K+ packages
+---
 
-Known for explaining technical ideas to non-tech teams (without making anyone feel dumb)
+## 🧑‍🤝‍🧑 Fun Extras
 
-🧑‍🤝‍🧑 Fun Extras
-Led CSU’s Graduate Student Association for ECE
+- Led CSU's Grad Student Association for ECE  
+- Ran a candle & tea startup across India  
+- Motto: *Powered by Python and caffeine*
 
-Startup founder: sold candles and tea across India
+---
 
-Motto: Powered by Python and caffeine
+## 🌐 Let's Connect
 
-🌐 Let's Connect
-🔗 LinkedIn
+- [LinkedIn](https://www.linkedin.com/in/sushmithakasimsettyramesh/)  
+- 📧 sushmitharamesh651@gmail.com  
 
-📧 Email: sushmitharamesh651@gmail.com
+---
 
+*Currently experimenting with GenAI, LLMs, and the art of making models not hallucinate.*
 
 
