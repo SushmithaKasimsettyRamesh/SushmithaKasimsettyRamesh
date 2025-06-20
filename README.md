@@ -1,32 +1,37 @@
-# 👋 Hey there — I'm Sushmitha!
-**Data Scientist** blending ML skills, business thinking, and startup grit to solve real-world problems. I tell stories with data, build ML models that *actually* work, and occasionally yell at my code. ☕🐍
+# 👋 Sushmitha | Data Scientist
+<sub>Building ML models that solve real problems · Python + Business thinking + Startup grit</sub>
 
-## 🚀 What I Do
-Build ML models · Analyze data for insights · Create decision-driving dashboards · Work across AI, education, healthcare, and startups
-
-## 🛠️ Tech Stack & 🎓 Background
 <table>
 <tr>
-<td width="50%">
+<td width="40%">
 
-**Languages:** Python · SQL  
-**ML/AI:** Scikit-learn · TensorFlow · Hugging Face · OpenAI API · LangChain · RAG  
-**Cloud & Viz:** Azure ML · Tableau · Power BI
+**🚀 What I Do**  
+ML models · Data analysis · Dashboards  
+AI/healthcare/education/startups
+
+**🛠️ Tech Stack**  
+Python · SQL · TensorFlow · Hugging Face  
+OpenAI API · LangChain · Azure ML · Tableau
 
 </td>
-<td width="50%">
+<td width="60%">
 
-**MS Computer Engineering** – Colorado State University  
-IBM Data Science Certificate · ElevateMe ML Bootcamp
+**💼 Key Projects**  
+🍄 **Mushroom Classifier** – CNN for edible vs. poisonous classification  
+📄 **Contract Risk Scorer** – NLP model detecting risky legal language  
+💊 **Healthcare Sales** – 28M+ CMS hours analysis, $7B+ insights
+
+**🎓 MS Computer Engineering** – Colorado State University
 
 </td>
 </tr>
 </table>
 
-## 💼 Key Projects
-🍄 **Mushroom Classifier** – CNN for edible vs. poisonous classification  
-📄 **Contract Risk Scorer** – NLP model detecting risky legal language  
-💊 **Healthcare Sales Targeting** – Analyzed 28M+ CMS hours, $7B+ insights
+**💡 Why Me?** Technical + business skills · Startup to enterprise experience · GenAI/RAG expertise · Led CSU Grad Association · Ran profitable business
+
+[LinkedIn](https://www.linkedin.com/in/sushmithakasimsettyramesh/) · sushmitharamesh651@gmail.com
+
+<sub>*Currently making LLMs not hallucinate ☕🐍*</sub>
 
 ## 💡 Why Me?
 Technical skills + business thinking · Startup to enterprise experience · Hands-on GenAI/RAG expertise · Led CSU's Grad Student Association · Ran profitable candle-tea startup
