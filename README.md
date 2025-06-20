@@ -32,13 +32,3 @@ OpenAI API · LangChain · Azure ML · Tableau
 [LinkedIn](https://www.linkedin.com/in/sushmithakasimsettyramesh/) · sushmitharamesh651@gmail.com
 
 <sub>*Currently making LLMs not hallucinate ☕🐍*</sub>
-
-## 💡 Why Me?
-Technical skills + business thinking · Startup to enterprise experience · Hands-on GenAI/RAG expertise · Led CSU's Grad Student Association · Ran profitable candle-tea startup
-
-## 🌐 Connect
-[LinkedIn](https://www.linkedin.com/in/sushmithakasimsettyramesh/) · sushmitharamesh651@gmail.com
-
-*Currently experimenting with GenAI and making models not hallucinate.*
-
-
